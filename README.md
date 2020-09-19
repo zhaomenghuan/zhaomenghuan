@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on a miniprogram IDE base Theia.
+- 🌱 I’m currently learning ESP8266 and STM32.
+- 🔗 http://zhaomenghuan.js.org
