@@ -16,5 +16,4 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on a miniprogram IDE base Theia.
-- 🌱 I’m currently learning ESP8266 and STM32.
 - 🔗 http://zhaomenghuan.js.org
