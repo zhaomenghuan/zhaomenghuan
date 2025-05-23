@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on a miniprogram IDE base Theia.
+- 🔭 I’m currently developing [NoCode](https://nocode.cn).
 - 🔗 http://zhaomenghuan.js.org
